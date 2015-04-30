@@ -4,6 +4,8 @@
 
 * [Gramática](#gramática)
 * [Biologia](#biologia)
+* [Lingua Estrangeira](#l%C3%ADngua-estrangeira)
+* [Físico-química](#físico-química)
 
 ### Gramática
 * Hífen
