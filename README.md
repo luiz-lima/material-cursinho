@@ -10,3 +10,9 @@
 
 ### Biologia
 * Fungos
+
+### Língua Estrangeira
+* Espanhol
+
+### Físico-química
+* Matéria e Corpo
