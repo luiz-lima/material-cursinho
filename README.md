@@ -15,6 +15,10 @@
 
 ### Língua Estrangeira
 * Espanhol
+* Inglês
 
 ### Físico-química
 * Matéria e Corpo
+
+### Geografia
+* Tempo Geológico
