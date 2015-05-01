@@ -6,6 +6,7 @@
 * [Biologia](#biologia)
 * [Lingua Estrangeira](#l%C3%ADngua-estrangeira)
 * [Físico-química](#físico-química)
+* [Geografia](#geografia)
 
 ### Gramática
 * Hífen
