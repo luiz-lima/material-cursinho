@@ -7,6 +7,7 @@
 * [Lingua Estrangeira](#l%C3%ADngua-estrangeira)
 * [Físico-química](#físico-química)
 * [Geografia](#geografia)
+* [Matemática](#matemática)
 
 ### Gramática
 * Hífen
@@ -23,3 +24,6 @@
 
 ### Geografia
 * Tempo Geológico
+
+### Matemática
+* Números Racionais
