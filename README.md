@@ -8,6 +8,8 @@
 * [Físico-química](#físico-química)
 * [Geografia](#geografia)
 * [Matemática](#matemática)
+* [Filosofia](#filosofia)
+* [História](#história)
 
 ### Gramática
 * Hífen
@@ -30,3 +32,9 @@
 
 ### Matemática
 * Números Racionais
+
+### Filosofia
+* Origem da Filosofia
+
+### História
+* Importância da História
