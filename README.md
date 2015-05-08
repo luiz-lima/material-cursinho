@@ -12,6 +12,7 @@
 * [História](#história)
 * [Redação](#redação)
 * [Física](#física)
+* [Atualidades](#atualidades)
 
 ### Gramática
 * Hífen
@@ -45,3 +46,8 @@
 
 ### Física
 * Conversão de Unidades
+
+### Atualidades
+
+### Química I
+* Distribuição Eletrônica
