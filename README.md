@@ -13,6 +13,7 @@
 * [Redação](#redação)
 * [Física](#física)
 * [Atualidades](#atualidades)
+* [Química I](#química-i)
 
 ### Gramática
 * Hífen
