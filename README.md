@@ -36,6 +36,7 @@
 
 ### Matemática
 * Números Racionais
+* Teorema de Pitágoras
 
 ### Filosofia
 * Origem da Filosofia
